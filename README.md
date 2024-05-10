@@ -10,6 +10,8 @@ I am a junior software quality specialist with experience in testing open source
 * ✉️  You can contact me at [sergavich@gmail.com](mailto:sergavich@gmail.com)
 
 
+Issues created by me: https://friends.hexlet.io/contributors/Sh3rlock-git/issues/
+
 ### My Core Skills:
 * Creating checklists, test cases, bug reports
 * Test Design Techniques
