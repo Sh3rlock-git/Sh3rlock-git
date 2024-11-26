@@ -17,12 +17,10 @@ Issues created by me: https://friends.hexlet.io/contributors/Sh3rlock-git/issues
 * Test Design Techniques
 * DevTools
 * Postman
-* SQL PostgreSQL
+* SQL
 * Basic Linux terminal skills
-* Github, Git
+* Git
 * Basic knowledge of the TCP/IP stack
-* HTTP/HTTPS Traffic Analyzer
-* Touch Typing
 
 
 
